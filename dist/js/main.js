@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("my slider"),console.log("my menu"),console.log("agfag")})();
